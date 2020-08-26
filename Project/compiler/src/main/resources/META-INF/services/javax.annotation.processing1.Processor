@@ -1,0 +1,8 @@
+
+# 待解决：这个文件无法使用，原因未知，如果将文件名中的1去除后编译会出现报错信息：
+
+# Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.1:compile (default-compile) on project compiler: Compilation failure
+# 服务配置文件不正确, 或构造处理程序对象javax.annotation.processing.Processor: Provider com.compiler.InterfaceProcessor not found时抛出异常错误
+
+
+com.compiler.InterfaceProcessor
